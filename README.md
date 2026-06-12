@@ -35,25 +35,25 @@ The project follows a modular and clean architecture:
 
 ## 🖼️ Visual Documentation
 **1. Home Page:**
-![Home Page](images/homepage.png)
+![Home Page](homepage.png)
 
 **2. Shopping Cart:**
-![Cart Page](images/cartpage.png)
+![Cart Page](cartpage.png)
 
 **3. Empty Cart State:**
-![Empty Cart](images/emptycart.png)
+![Empty Cart](emptycart.png)
 
 **4. User Authentication (Sign-in):**
-![Sign-in](images/signin.png)
+![Sign-in](signin.png)
 
 **5. Checkout Success:**
-![Checkout Success](images/checkoutsuccess.png)
+![Checkout Success](checkoutsuccess.png)
 
 **6. Product Search:**
-![Search](images/search.png)
+![Search](search.png)
 
 **7. User Details:**
-![User Profile](images/name.png)
+![User Profile](name.png)
 
 ## ⚙️ Technical Details
 * **Architecture:** Component-Based Architecture ensuring modularity and reusability.
@@ -76,7 +76,7 @@ App
     └── Checkout
 
 The following diagram illustrates the application's structured component hierarchy, data flow, and central state management using Redux Toolkit:
-![Component Architecture](images/architecture_diagram.jpeg)
+![Component Architecture](architecture_diagram.jpeg)
 
 
 ---
