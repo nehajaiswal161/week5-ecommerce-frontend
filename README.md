@@ -67,7 +67,6 @@ The project follows a modular and clean architecture:
 ## 🏗️ Component Architecture
 The application follows a structured component hierarchy:
 
-```text
 App
 ├── Navbar
 └── Routes (React Router)
